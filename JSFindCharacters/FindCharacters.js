@@ -39,19 +39,19 @@ function findCharacters(words,x){
     let output = [];
 
      //iterate through the incoming array of 'words'
-    for(){
+    for(let i = 0;){
 
         //capture the word from the array for easier reference
         const word = 
 
         //once you access a word from the 'words' array
         //iterate through the word itself to get access to each character
-        for(){
+        for(let j = 0;){
 
             //capture the character from the word for easier reference
             let char = 
         
-            //check each character and compare it to 'x' to see if they are equal
+            // compare 'char' it to 'x' and see if they are equal
             if(){
             
                 //if the characters are equal
@@ -59,7 +59,7 @@ function findCharacters(words,x){
                  output.push()
 
                  //in case of a word having multiples of a letter in a word
-                    //break out of the loop to continue onto the next word in the 'words' array
+                    //break out of this for loop to continue onto the next word in the 'words' array
                  break;
                 
             }
