@@ -41,36 +41,7 @@ public class FindCharacters {
         // create the array to be returned
         List<Integer> output = new ArrayList();
 
-        //iterate through the incoming array of 'words'
-        //hint: for loops syntax -  for(start index; end index; increment value)
-        for(int i = 0;){
-
-
-            //once you access a word from the 'words' array
-            //iterate through the word itself to get access to each character
-            //hint: you'll access the word using the current index 'i'
-            for(int j = 0;){
-
-
-
-                //check each character and compare it to 'x' to see if they are equal
-                // hint: you can use the '.charAt(index)' function on a string.
-                // However be mindful of which index you are using.
-                if(words[]){
-
-
-                    //if the characters are equal
-                    //add the current index of the 'words' array to the output array
-                    output.add();
-
-                    //in case of a word having multiples of a letter in a word
-                    //break out of the loop to continue onto the next word in the 'words' array
-                    break;
-                }
-            }
-
-        }
-
+        
         return output;
     }
 

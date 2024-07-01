@@ -35,38 +35,7 @@ words[i] consists only of lowercase English letters.
 
 function findCharacters(words,x){
 
-     // create the array to be returned
-    let output = [];
-
-     //iterate through the incoming array of 'words'
-    for(let i = 0;){
-
-        //capture the word from the array for easier reference
-        const word = 
-
-        //once you access a word from the 'words' array
-        //iterate through the word itself to get access to each character
-        for(let j = 0;){
-
-            //capture the character from the word for easier reference
-            let char = 
-        
-            // compare 'char' it to 'x' and see if they are equal
-            if(){
-            
-                //if the characters are equal
-                //add the current index of the 'words' array to the output array
-                 output.push()
-
-                 //in case of a word having multiples of a letter in a word
-                    //break out of this for loop to continue onto the next word in the 'words' array
-                 break;
-                
-            }
-        }
-       
-    }
-    return output;
+   
 }
 
 
